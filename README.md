@@ -26,5 +26,21 @@ The second project focuses on Discrete Curvature and Spectral Meshes, and Laplac
       - Implement explicit Laplacian mesh smoothing
       - Implement implicit Laplacian mesh smoothing
       - Evaluate the performances of Laplacian denoising by adding different amounts of synthetic noise to the 3D models
+ 
+<div align="center">
+  <img src="Project_2/results/DLB.png" style="width: 600px; object-fit: contain;">
+</div>
+
+<div align="center">
+  <img src="Project_2/results/SpectralAnalysis.png" style="width: 600px; object-fit: contain;">
+</div>
+
+<div align="center">
+  <img src="Project_2/results/DiffusionFlow.png" style="width: 600px; object-fit: contain;">
+</div>
+
+<div align="center">
+  <img src="Project_2/results/ImplicitLaplacian.png" style="width: 600px; object-fit: contain;">
+</div>
 
 More details about the implementation and results are presented in the Report.pdf files from the directories of the projects.
